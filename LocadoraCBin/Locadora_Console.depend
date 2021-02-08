@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1499014799 source:c:\users\dsfb\documents\codeblocks_c_projects\locadora_console\main.c
+	"locadora.h"
+
+1499014799 h"
+
+1514411383 c:\users\dsfb\documents\codeblocks_c_projects\locadora_console\locadora.h
+	<stdio.h>
+
+1514412186 
+
+1514411568 source:c:\users\dsfb\documents\codeblocks_c_projects\locadora_console\locadora.c
+	<stdlib.h>
+	<string.h>
+	"locadora.h"
+	"utils.h"
+
+1514412186 source:c:\users\dsfb\documents\codeblocks_c_projects\locadora_console\utils.c
+	<string.h>
+	<stdio.h>
+
+1514412134 c:\users\dsfb\documents\codeblocks_c_projects\locadora_console\utils.h
+
+1514416038 source:/home/daniel/git/LocadoraCBin/locadora.c
+	<stdlib.h>
+	<string.h>
+	"locadora.h"
+	"utils.h"
+
+1612718647 /home/daniel/git/LocadoraCBin/locadora.h
+	<ctype.h>
+	<stdio.h>
+
+1612718695 /home/daniel/git/LocadoraCBin/utils.h
+
+1499011200 source:/home/daniel/git/LocadoraCBin/main.c
+	"locadora.h"
+
+1612718522 source:/home/daniel/git/LocadoraCBin/utils.c
+	<string.h>
+	<stdio.h>
+

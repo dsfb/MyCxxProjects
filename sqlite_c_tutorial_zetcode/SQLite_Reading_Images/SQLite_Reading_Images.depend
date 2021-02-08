@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540767387 source:c:\users\dsfb\git\sqlite_c_tutorial_zetcode\sqlite_reading_images\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1540760937 c:\users\dsfb\git\sqlite_c_tutorial_zetcode\sqlite_reading_images\sqlite3.h
+	<stdarg.h>
+

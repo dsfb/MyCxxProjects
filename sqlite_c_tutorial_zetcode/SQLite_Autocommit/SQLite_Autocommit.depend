@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540847011 source:c:\users\daniel\documents\github\sqlite_c_tutorial_zetcode\sqlite_autocommit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1540820576 c:\users\daniel\documents\github\sqlite_c_tutorial_zetcode\sqlite_autocommit\sqlite3.h
+	<stdarg.h>
+
